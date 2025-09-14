@@ -1,6 +1,8 @@
 # classof3ds
 This page will serve as a place for bug reports, suggestions and updates for the Class of '09 3DS port.
 
+There's a fair chance this gets struck down. If it does, keep an eye in r/Classof09Game for the new page.
+
 No source is available and it probably will never be, for two reasons:
 - I don't want SBN3 claiming the port as "his" and selling it
 - I've seen how some people get eaten alive for not programming 100% to the book. I am entirely self-taught, and I never picked up "proper practices", so I'm not going to open the can of worms.
