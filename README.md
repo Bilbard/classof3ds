@@ -37,4 +37,5 @@ Yes. The code was written in a way that should make it pretty easy to pick up sh
 - Every Playstation (including Vita and PSP), with the possible exception of the PS1. It may not have the texture cache necessary to have a good looking game.
 - Every Nintendo home console from the GameCube up. I'd like to have a crack at the N64, but it poses the same problems as the PS1 as well as problems posed by the remaining Nintendo handhelds (good audio playback, audio is half the reason these games are good).
 - The Sega Saturn and Dreamcast.
+
 Of course, I am promising nothing. I'd like to do this, but this may prove to be quite the task.
