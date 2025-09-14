@@ -5,28 +5,28 @@ No source is available and it probably will never be, for two reasons:
 - I don't want SBN3 claiming the port as "his" and selling it
 - I've seen how some people get eaten alive for not programming 100% to the book. I am entirely self-taught, and I never picked up "proper practices", so I'm not going to open the can of worms.
 
-# How this will work
+### How this will work
 I can't host the builds on GitHub (very easy to get them taken down), so instead a download link will be supplied for every build. I will keep the newest link alive, but any older links may die.
 
 If there's any extra steps you must take before updating to a new version, instructions will be provided.
 
 # FAQ
-"Does this work on old 3DS models?"
+### "Does this work on old 3DS models?"
 Yes, by design. Your experience will be enhanced on a new 3DS, but the game is very playable on the old models.
 
-"I found a bug/I have a feature request/I want to discuss something!"
+### "I found a bug/I have a feature request/I want to discuss something!"
 Open an issue. How you format it is up to you, just make it readable.
 
-"Can I use the underlying engine for my visual novel/game?"
+### "Can I use the underlying engine for my visual novel/game?"
 For reasons cited above, no. I'd advise anyone else to make their own engine, like I did. I promise you, it'll be a hell of a lot easier than trying to adapt my engine. It is a visual novel engine, but it is very tailored to these specific games.
 
-"What libraries did you use?"
+### "What libraries did you use?"
 I used devkitARM in conjunction with citro3d/2d. I'm using opusfile for audio decode, and the video decoder is a custom decoder that can only decode MJPEG .avi 120x200@15fps (no audio).
 
-"Do you plan to port the other games?"
+### "Do you plan to port the other games?"
 Yes, the second game. I will not port the third game because it's just a weird fetish game. The first two games have a sense of humor.
 
-"Do you plan to port these games to other consoles?"
+### "Do you plan to port these games to other consoles?"
 Yes. The code was written in a way that should make it pretty easy to pick up shop to another console. I've done some thinking and I've compiled a list of consoles theoretically possible:
 - Every Xbox, no question.
 - Every Playstation (including Vita and PSP), with the possible exception of the PS1. It may not have the texture cache necessary to have a good looking game.
