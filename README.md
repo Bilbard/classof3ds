@@ -12,6 +12,9 @@ I can't host the builds on GitHub (very easy to get them taken down), so instead
 
 If there's any extra steps you must take before updating to a new version, instructions will be provided.
 
+### Where do I download it?
+Check the tags for the newest tag. It'll have a download link.
+
 # FAQ
 ### "Does this work on old 3DS models?"
 Yes, by design. Your experience will be enhanced on a new 3DS, but the game is very playable on the old models.
