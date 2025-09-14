@@ -14,8 +14,11 @@ If there's any extra steps you must take before updating to a new version, instr
 "Does this work on old 3DS models?"
 Yes, by design. Your experience will be enhanced on a new 3DS, but the game is very playable on the old models.
 
+"I found a bug/I have a feature request/I want to discuss something!"
+Open an issue. How you format it is up to you, just make it readable.
+
 "Can I use the underlying engine for my visual novel/game?"
-For reasons cited above, no. I'd advise anyone else to make their own engine, like I did. I promise you, it'll be a hell of a lot easier than trying to adapt another engine.
+For reasons cited above, no. I'd advise anyone else to make their own engine, like I did. I promise you, it'll be a hell of a lot easier than trying to adapt my engine. It is a visual novel engine, but it is very tailored to these specific games.
 
 "What libraries did you use?"
 I used devkitARM in conjunction with citro3d/2d. I'm using opusfile for audio decode, and the video decoder is a custom decoder that can only decode MJPEG .avi 120x200@15fps (no audio).
