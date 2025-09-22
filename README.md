@@ -1,5 +1,5 @@
 # classof3ds
-This page will serve as a place for bug reports, suggestions and updates for the Class of '09 3DS port.
+This page will serve as a place for bug reports, suggestions and updates for my Class of '09 ports.
 
 There's a fair chance this gets struck down. If it does, keep an eye in r/Classof09Game for the new page.
 
