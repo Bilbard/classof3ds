@@ -22,6 +22,9 @@ Yes, by design. Your experience will be enhanced on a new 3DS, but the game is v
 ### "I found a bug/I have a feature request/I want to discuss something!"
 Open an issue. How you format it is up to you, just make it readable.
 
+### "What engine did you use?"
+I made my own. Behind the scenes it works quite differently, but it mimics all of the necessary RenPy functionality needed to run the various games in the series and very little more. In the beginning I was considering using an existing visual novel engine, but none of them were appealing.
+
 ### "Can I use the underlying engine for my visual novel/game?"
 For reasons cited above, no. I'd advise anyone else to make their own engine, like I did. I promise you, it'll be a hell of a lot easier than trying to adapt my engine. It is a visual novel engine, but it is very tailored to these specific games.
 
@@ -32,7 +35,7 @@ I used devkitARM in conjunction with citro3d/2d. I'm using opusfile for audio de
 Yes, the second game. I will not port the third game because it's just a weird fetish game. The first two games have a sense of humor.
 
 ### "Do you plan to port these games to other consoles?"
-Yes. The code was written in a way that should make it pretty easy to pick up shop to another console. I've done some thinking and I've compiled a list of consoles theoretically possible:
+Yes. The code was written in a way that should make it pretty easy to pick up shop to another console. I've done some thinking and I've compiled a list of consoles I'd like to do that should be possible:
 - Every Xbox, no question.
 - Every Playstation (including Vita and PSP), with the possible exception of the PS1. It may not have the texture cache necessary to have a good looking game.
 - Every Nintendo home console from the GameCube up. I'd like to have a crack at the N64, but it poses the same problems as the PS1 as well as problems posed by the remaining Nintendo handhelds (good audio playback, audio is half the reason these games are good).
