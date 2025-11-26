@@ -1,6 +1,8 @@
 # classof3ds
 This page will serve as a place for bug reports, suggestions and updates for my Class of '09 ports.
 
+As much as I call these ports, these probably classify better as demakes.
+
 If this repository ever vanishes, look in r/Classof09Game for the new page.
 
 No source is available and it probably will never be, for two reasons:
