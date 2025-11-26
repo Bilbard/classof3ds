@@ -1,19 +1,19 @@
 # classof3ds
 This page will serve as a place for bug reports, suggestions and updates for my Class of '09 ports.
 
-There's a fair chance this gets struck down. If it does, keep an eye in r/Classof09Game for the new page.
+If this repository ever vanishes, look in r/Classof09Game for the new page.
 
 No source is available and it probably will never be, for two reasons:
 - I don't want SBN3 claiming the port as "his" and selling it
 - I've seen how some people get eaten alive for not programming 100% to the book. I am entirely self-taught, and I never picked up "proper practices", so I'm not going to open the can of worms.
 
 ### How this will work
-I can't host the builds on GitHub (very easy to get them taken down), so instead a download link will be supplied for every build. I will keep the newest link alive, but any older links may die.
+Builds are now uploaded straight to Github. 
 
 If there's any extra steps you must take before updating to a new version, instructions will be provided.
 
 ### Where do I download it?
-Check the tags for the newest tag. It'll have a download link. Ignore the age of the tag, as it's tied to the age of this readme and not of the game build.
+Check the tags for the newest tag. Ignore the age of the tag, as it's tied to the age of this readme and not of the game build.
 
 # FAQ
 ### "Does this work on old 3DS models?"
@@ -41,4 +41,4 @@ Yes. The code was written in a way that should make it pretty easy to pick up sh
 - Every Nintendo home console from the GameCube up. I'd like to have a crack at the N64, but it poses the same problems as the PS1 as well as problems posed by the remaining Nintendo handhelds (good audio playback, audio is half the reason these games are good).
 - The Sega Saturn and Dreamcast.
 
-Of course, I am promising nothing. I'd like to do this, but this may prove to be quite the task.
+Of course, I am promising nothing. I'd like to do this, but this may prove to be quite the task. I may also be full of shit about a console being "impossible", it's to the best of my knowledge.
