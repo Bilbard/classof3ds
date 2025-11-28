@@ -1,4 +1,6 @@
 # classof3ds
+<img width="256" height="256" alt="cia" src="https://github.com/user-attachments/assets/81c9a0e6-13cd-4849-b6ae-78195bc220eb" />
+
 This page will serve as a place for bug reports, suggestions and updates for my Class of '09 ports.
 
 As much as I call these ports, these probably classify better as demakes.
