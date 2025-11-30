@@ -7,7 +7,7 @@ As much as I call these ports, these probably classify better as demakes.
 
 If this repository ever vanishes, look in r/Classof09Game for the new page.
 
-No source is available and it probably will never be, for two reasons:
+No source is available and it probably never will be, for two reasons:
 - I don't want SBN3 claiming the port as "his" and selling it
 - I've seen how some people get eaten alive for not programming 100% to the book. I am entirely self-taught, and I never picked up "proper practices", so I'm not going to open the can of worms.
 
