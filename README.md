@@ -20,6 +20,9 @@ If there's any extra steps you must take before updating to a new version, instr
 Check the tags for the newest tag. Ignore the age of the tag, as it's tied to the age of this readme and not of the game build.
 
 # FAQ
+### "Any AI?"
+**No.** In the alternate universe where I needed AI to make this, it wouldn't have been made at all.
+
 ### "Does this work on old 3DS models?"
 Yes, by design. Your experience will be enhanced on a new 3DS, but the game is very playable on the old models.
 
