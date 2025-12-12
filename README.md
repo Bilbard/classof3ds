@@ -17,7 +17,7 @@ Builds are now uploaded straight to Github.
 If there's any extra steps you must take before updating to a new version, instructions will be provided.
 
 ### Where do I download it?
-Check the tags for the newest tag. Ignore the age of the tag, as it's tied to the age of this readme and not of the game build.
+You can either download it from [here](https://db.universal-team.net/3ds/class-of-09) or you can download the newest tag.
 
 # FAQ
 ### "Any AI?"
