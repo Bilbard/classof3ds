@@ -1,5 +1,6 @@
 # classof3ds
-<img width="256" height="256" alt="cia" src="https://github.com/user-attachments/assets/e9ab1b92-b4f4-49eb-ab94-c9bf5874e8c9" />
+<img width="256" height="256" alt="cia" src="https://github.com/user-attachments/assets/8ffaf589-5975-4d4c-9ddd-7c72d8f37db6" />
+
 
 This page will serve as a place for bug reports, suggestions and updates for my Class of '09 ports.
 
