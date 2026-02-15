@@ -38,7 +38,7 @@ I made my own. Behind the scenes it works quite differently, but it mimics all o
 For reasons cited above, no. I'd advise anyone else to make their own engine, like I did. I promise you, it'll be a hell of a lot easier than trying to adapt my engine. It is a visual novel engine, but it is very tailored to these specific games.
 
 ### "What libraries did you use?"
-I used devkitARM in conjunction with citro3d/2d. I'm using opusfile for audio decode, and the video decoder is a custom decoder that can only decode MJPEG .avi 120x200@15fps (no audio).
+I used devkitARM in conjunction with citro3d/2d. I'm using opusfile for audio decode, and the video decoder is a custom decoder that can only decode MJPEG .avi 120x200@30fps (no audio).
 
 ### "Do you plan to port the other games?"
 Yes, the second game. I will not port the third game because it's just a weird fetish game. The first two games have a sense of humor.
