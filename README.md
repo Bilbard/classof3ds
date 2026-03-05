@@ -32,7 +32,7 @@ Yes, by design. Your experience will be enhanced on a new 3DS, but the game is v
 Open an issue. How you format it is up to you, just make it readable.
 
 ### "What engine did you use?"
-I made my own. Behind the scenes it works quite differently, but it mimics all of the necessary RenPy functionality needed to run the various games in the series and very little more. In the beginning I was considering using an existing visual novel engine, but none of them were appealing.
+I made my own. Behind the scenes it works quite differently, but it mimics all of the necessary Ren'Py functionality needed to run the various games in the series and very little more. In the beginning I was considering using an existing visual novel engine, but none of them were appealing.
 
 ### "Can I use the underlying engine for my visual novel/game?"
 For reasons cited above, no. I'd advise anyone else to make their own engine, like I did. I promise you, it'll be a hell of a lot easier than trying to adapt my engine. It is a visual novel engine, but it is very tailored to these specific games.
