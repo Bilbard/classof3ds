@@ -53,4 +53,4 @@ Yes. The code was written in a way that should make it pretty easy to pick up sh
 Of course, I am promising nothing. I'd like to do this, but this may prove to be quite the task. I may also be full of shit about a console being "impossible", it's to the best of my knowledge.
 
 # Donate
-Check [here](https://dagabey.ca/index.html?donate.htm). Please remember that you'd be donating to me, the gabe, and not directly to this project.
+Check [here](https://dagabey.ca/index.html?donate.htm). Please remember that you'd be donating to me (the gabe) and not directly to this project.
