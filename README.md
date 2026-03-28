@@ -5,6 +5,7 @@ This page will serve as a place for bug reports, suggestions and updates for my 
 <img width="256" height="256" alt="cia1" src="https://github.com/user-attachments/assets/f1e3ff89-7e86-4d52-bfd8-86856e1677d1" />
 
 ## Second Game
+This is a prerelease build. Expect some bugs and other issues.
 <img width="256" height="256" alt="cia2" src="https://github.com/user-attachments/assets/8e8a4c52-6d6d-4152-9407-d79e792b7a70" />
 
 As much as I call these ports, these probably classify better as demakes.
