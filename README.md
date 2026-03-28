@@ -6,6 +6,7 @@ This page will serve as a place for bug reports, suggestions and updates for my 
 
 ## Second Game
 This is a prerelease build. Expect some bugs and other issues.
+
 <img width="256" height="256" alt="cia2" src="https://github.com/user-attachments/assets/8e8a4c52-6d6d-4152-9407-d79e792b7a70" />
 
 As much as I call these ports, these probably classify better as demakes.
